@@ -30,5 +30,5 @@ and here
 
 [Click here]: [www.bbc.com]
 
-![](trial_hamilton/blob/master/images/image1.PNG)
-![](trial_hamilton/tree/master/images/image1.PNG)
+
+![](tree/master/images/image1.PNG)

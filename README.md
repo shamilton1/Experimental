@@ -10,3 +10,12 @@ Suggest changing patch 1 content - then merging into master
 Header | Column 2 |
 ------|------|
 Cell 1 | Cell 2|
+
+Table done - now try a list
+1. Keys
+2. Phone
+3. Wallet
+
+- Keys
+- Phone 
+- Wallet

@@ -31,4 +31,4 @@ and here
 [Click here]: [www.bbc.com]
 
 
-![](tree/master/images/image1.PNG)
+![](/images/image1.PNG)

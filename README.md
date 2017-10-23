@@ -27,10 +27,10 @@ and here
 and here
 ```
 
-Click for file [file_2][]
+[Click for file][]
 
 
 
 ![](/images/image1.PNG)
 
-[file2]:file_2.md
+[Click for file]:file_2.md

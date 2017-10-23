@@ -27,10 +27,10 @@ and here
 and here
 ```
 
-Click for file [linked file 1][]
-[Click here]: [www.bbc.com]
+Click for file [file_2][]
+
 
 
 ![](/images/image1.PNG)
 
-[linked file 1]: linked file 1.md
+[file2]: file_2.md

@@ -1,4 +1,4 @@
-# Writer Guidance
+# Hamilton
 experiment
 ## Adding some text
 ### Another heading

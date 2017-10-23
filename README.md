@@ -33,4 +33,4 @@ Click for file [file_2][]
 
 ![](/images/image1.PNG)
 
-[file2]: file_2.md
+[file2]:file_2.md

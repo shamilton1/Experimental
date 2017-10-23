@@ -21,3 +21,10 @@ Table done - now try a list
 - Wallet
 
 Create link to another file in this repository
+[here for other file][]
+
+
+
+
+[here for other file]: linked file 1.md
+

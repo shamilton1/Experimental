@@ -27,8 +27,10 @@ and here
 and here
 ```
 
-
+Click for file [linked file 1]
 [Click here]: [www.bbc.com]
 
 
 ![](/images/image1.PNG)
+
+[linked file 1]: 

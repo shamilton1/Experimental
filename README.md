@@ -1,4 +1,4 @@
-# trial_hamilton
+# Writer Guidance
 experiment
 ## Adding some text
 ### Another heading

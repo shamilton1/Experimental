@@ -1,4 +1,4 @@
-![](/images/Capture.PNG)
+![](/images/capture.PNG)
 
 # Hamilton
 

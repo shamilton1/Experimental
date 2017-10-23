@@ -29,3 +29,5 @@ and here
 
 
 [Click here]: [www.bbc.com]
+
+![](trial_hamilton/blob/master/images/image1.PNG)

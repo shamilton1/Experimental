@@ -8,7 +8,7 @@ The following register map provides address space information and pointers to ma
 |[APERF1](aperf1.md)|0x7e102000|SDRAM Data (pin) control|
 |[APHY_CSR](aphy_csr.md)|0x7E00B000|PLL Control only|
 |[CCP2TX](ccp2tx.md)|0x7e102000|GPIO control|
-|[DMA0](DMA0.md)|0x7e00a000|VC4-L1 control|
+|[DMA0](dma0.md)|0x7e00a000|VC4-L1 control|
 |[A2DMA1W](DMA1.md)|0x7e102000|One Time programmable|
 |[DMA2](DMA2.md)|0x7E215000|VC4-L2 control|
 |[DMA3](DMA3.md)|0x7e910000|CSDRAM|

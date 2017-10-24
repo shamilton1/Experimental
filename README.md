@@ -2,8 +2,21 @@
 
 
 # Overview
+With changing user expectations for documentation, GitHub has been identified as a suitable channel for hosting dynamic and flexible engineering content.
 
 This GitHub repository aims to privide basic guidance for technical writers tasked with content editing/creation in the GitHub environment.
+
+Areas covered include:
+
+[GitHub Basics][]
+
+
+
+Markdown Editing
+
+
+
+
 
 # Basic Markdown: Content editing
 

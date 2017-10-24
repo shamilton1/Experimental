@@ -21,7 +21,8 @@ This code sample calls the API's `playlists.list` method. Use command-line flags
 go run lists.go oauth.go errors.go --channelId=UC_x5XG1OV2P6uZZ5FSM9Ttw
 
 # Retrieve authenticated user lists
-go run lists.go oauth.go errors.go --mine=true```
+go run lists.go oauth.go errors.go --mine=true
+```
 
 ## Retrieving Uploads
 This code sample calls the API's `listItems.list` method to retrieve a list of videos uploaded to the channel associated with the request. The code also calls the `channels.list` method with the mine parameter set to true to retrieve the playlist ID that identifies the channel's uploaded videos.

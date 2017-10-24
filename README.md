@@ -6,7 +6,7 @@
 
 ### [Prerequisites][]
 
-### [Register Space][]
+### [Register space][]
 
 ### [APIs][]
 

@@ -76,8 +76,6 @@ and here
 
 
 
-![](/images/image1.PNG)
-
 [Click for file]:file_2.md
 
 

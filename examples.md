@@ -29,3 +29,20 @@ This code sample calls the API's `listItems.list` method to retrieve a list of v
 
 ## Search by Keyword
 This code sample calls the API's `search.list` method to retrieve search results associated with a particular keyword.
+
+```
+package main
+
+import (
+  "log"
+)
+
+func handleError(err error, message string) {
+  if message == "" {
+    message = "Error making API call"
+  }
+  if err != nil {
+    log.Fatalf(message + ": %v", err.Error())
+  }
+}
+```

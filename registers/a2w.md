@@ -11,3 +11,6 @@ register.
 |[29:3]|0|RW|Reserved|
 |[31:30]|0|RW|Download Image Source|
 
+
+[Number of Transceiver]:(/registers/aperf1.md)
+

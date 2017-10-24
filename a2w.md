@@ -1,3 +1,7 @@
+This register allows you to set the number corresponding to the Transceiver DRP control mailbox or the
+Transceiver control register bank to be accessed. The range is 0 to N-1,
+where N is the value returned from the Number of Transceiver Interfaces
+register.
 
 |Bit|Default Value|Access Type|Description|
 |:-----:|:-----:|:-----:|-----|

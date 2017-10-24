@@ -10,7 +10,7 @@ The following register map provides address space information and pointers to ma
 |[CCP2TX](/registers/ccp2tx.md)|0x7e102000|GPIO control|
 |[DMA0](/registers/dma0.md)|0x7e00a000|VC4-L1 control|
 |[A2DMA1W](/registers/a2dma1w.md)|0x7e102000|One Time programmable|
-|[DMA2](DMA2.md)|0x7E215000|VC4-L2 control|
+|[DMA2](dma2.md)|0x7E215000|VC4-L2 control|
 |[DMA3](DMA3.md)|0x7e910000|CSDRAM|
 |[DMA4](DMA4.md)|0x7e800000|SIGALRM|
 |[DMA5](DMA5.md)|0x7e102000|SIGTERM|

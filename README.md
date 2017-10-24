@@ -22,7 +22,7 @@ The following figure shows a high level system representation. Component level d
 
 ![](/images/image1.jpg)
 
-Basic Markdown editing
+# Basic Markdown editing
 
 ## Adding Text
 

@@ -51,11 +51,11 @@ Headings are predeced by '#' symbols and take the following form:
 
 ## Basics
 
-'|'s separate columns
+Use outer pipes (|'s) to separate columns.
 
-\'-'s separate rows
+Use dashes (-'s) to separate rows.
 
-Five or more dashes separate header and body rows.
+There must be at least three dashes separating each header cell from body content.
 
 ## Alignment
 
@@ -68,7 +68,10 @@ Column 3 is right aligned
 
 |Column 1 | Column 2 |Column 3|
 |:------|:------:|-----:|
-|Cell 1 | Cell 2|
+|Cell 1 | Cell 2| Cell 3|
+|Cell 1 | Cell 2| Cell 3|
+|Cell 1 | Cell 2| Cell 3|
+|Cell 1 | Cell 2| Cell 3|
 
 
 # Lists

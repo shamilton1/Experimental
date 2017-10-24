@@ -1,7 +1,7 @@
 
 The following register map provides address space information and pointers to management registers.
 
-|Region|Base|Description|
+|Region|Base|Register Name/Description|
 |-------|----|--------|
 |[A2W](/registers/a2w.md)|0x7e102000|Clock Manager/PLL Control|
 |[APERF0](/registers/aperf0.md)|0x7e009800|SDRAM Adress (pin) control|

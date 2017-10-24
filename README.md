@@ -4,15 +4,15 @@
 
 # Table of Contents
 
-[Prerequisites][]
+## [Prerequisites][]
 
-[Register Space][]
+## [Register Space][]
 
-[APIs][]
+## [APIs][]
 
-[Example use cases][]
+## [Example use cases][]
 
-[Tutorials][]
+## [Tutorials][]
 
 # Overview
 

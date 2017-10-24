@@ -14,7 +14,8 @@ To run any sample that does not require user authorization, such as search_by_ke
 This code sample performs OAuth 2.0 authorization by checking for the presence of a local file that contains authorization credentials. If the file is not present, the script opens a browser and waits for a response, then saves the returned credentials locally.
 
 ## Lists
-This code sample calls the API's `playlists.list` method. Use command-line flags to define the parameters you want to use in the request as shown in the following examples:
+This code sample calls the API's `playlists.list` method. Use command-line flags to define the parameters 
+want to use in the request as shown in the following examples:
 
 ```
 # Retrieve lists for a specified channel
@@ -214,7 +215,7 @@ func tokenCacheFile() (string, error) {
 	tokenCacheDir := filepath.Join(usr.HomeDir, ".credentials")
 	os.MkdirAll(tokenCacheDir, 0700)
 	return filepath.Join(tokenCacheDir,
-		url.QueryEscape("youtube-go.json")), err
+		url.QueryEscape("tube-go.json")), err
 }
 
 // tokenFromFile retrieves a Token from a given file path.
@@ -232,7 +233,7 @@ func tokenFromFile(file string) (*oauth2.Token, error) {
 ```
 # Quickstart Go
 ```
-func channelsListByUsername(service *youtube.Service, part string, forUsername string) {
+func channelsListByUsername(service *tube.Service, part string, forUsername string) {
   call := service.Channels.List(part)
   call = call.ForUsername(forUsername)
   response, err := call.Do()
@@ -254,15 +255,15 @@ func main() {
   }
 
   // If modifying these scopes, delete your previously saved credentials
-  // at ~/.credentials/youtube-go-quickstart.json
-  config, err := google.ConfigFromJSON(b, youtube.YoutubeReadonlyScope)
+  // at ~/.credentials/tube-go-quickstart.json
+  config, err := google.ConfigFromJSON(b, tube.tubeReadonlyScope)
   if err != nil {
     log.Fatalf("Unable to parse client secret file to config: %v", err)
   }
   client := getClient(ctx, config)
-  service, err := youtube.New(client)
+  service, err := tube.New(client)
 
-  handleError(err, "Error creating YouTube client")
+  handleError(err, "Error creating Tube client")
 
   channelsListByUsername(service, "snippet,contentDetails,statistics", "GoogleDevelopers")
 }

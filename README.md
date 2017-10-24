@@ -124,14 +124,6 @@ Displays as:
 
 
 
-Example:
-
-The following figure shows a high level system representation. Component level descriptions are given in subsequent sections.
-
-![](/images/image1.jpg)
-
-Following are some examples markdown files in various formats which may be useful.
-
 ### [Prerequisites][]
 
 ### [Register space][]

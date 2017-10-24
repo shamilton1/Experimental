@@ -91,26 +91,32 @@ For bulleted lists, precede each item with a dash:
 Use triple back ticks at the beginning and end of code blocks
 ```
 \```
-#include <stdio.h>
+/* Fibonacci Series C language */
+#include<stdio.h>
+ 
 int main()
 {
-    int i, j;
-    char input, alphabet = 'A';
-
-    printf("Enter the uppercase character you want to print in last row: ");
-    scanf("%c",&input);
-
-    for(i=1; i <= (input-'A'+1); ++i)
-    {
-        for(j=1;j<=i;++j)
-        {
-            printf("%c", alphabet);
-        }
-        ++alphabet;
-
-        printf("\n");
-    }
-    return 0;
+   int n, first = 0, second = 1, next, c;
+ 
+   printf("Enter the number of terms\n");
+   scanf("%d",&n);
+ 
+   printf("First %d terms of Fibonacci series are :-\n",n);
+ 
+   for ( c = 0 ; c < n ; c++ )
+   {
+      if ( c <= 1 )
+         next = c;
+      else
+      {
+         next = first + second;
+         first = second;
+         second = next;
+      }
+      printf("%d\n",next);
+   }
+ 
+   return 0;
 }
 \```
 ```

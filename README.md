@@ -61,7 +61,8 @@ There must be at least three dashes separating each header cell from body conten
 
 ### Alignment
 
-Control cell horizontal alignment using colons. In the following table:
+Control cell horizontal alignment using colons. For example, in the following table:
+
 Column 1 is left aligned
 
 Column 2 is centered

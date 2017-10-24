@@ -21,7 +21,7 @@ GitHub Workflow for Writers
 
 Basic Markdown Editing:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Text][]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tables
 
@@ -219,5 +219,6 @@ Support and Feedback
 
 [Tutorials]:tutorials.md
 
+[Text]:text.md
 
 

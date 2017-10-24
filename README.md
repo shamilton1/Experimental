@@ -20,7 +20,7 @@ This GitHub repository is being developed for TDL as a feasbility study to demon
 
 The following figure shows a high level system representation. Component level descriptions are given in subsequent sections.
 
-![](/images/system.PNG)
+![](/images/system.png)
 
 
 

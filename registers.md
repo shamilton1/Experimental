@@ -4,8 +4,8 @@ The following register map provides address space information and pointers to ma
 |Region|Base|Description|
 |-------|----|--------|
 |[A2W](README.md)|0x7e102000|Clock Manager/PLL Control|
-|[A2W](README.md)|0x7e102000|Clock Manager/PLL Control|
-|[A2W](README.md)|0x7e102000|Clock Manager/PLL Control|
+|[APERF0](APERF0.md)|0x7e102000|Clock Manager/PLL Control|
+|[APERF1](APERF1.md)|0x7e102000|Clock Manager/PLL Control|
 |[A2W](README.md)|0x7e102000|Clock Manager/PLL Control|
 |[A2W](README.md)|0x7e102000|Clock Manager/PLL Control|
 |[A2W](README.md)|0x7e102000|Clock Manager/PLL Control|

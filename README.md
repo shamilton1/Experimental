@@ -83,7 +83,7 @@ and here
 
 
 [Prerequisites]:prerequisites.md
-[Register Space]:registers.md
+[Register space]:registers.md
 [APIs]:apis.md
 [Example use cases]:examples.md
 [Tutorials]:tutorials.md

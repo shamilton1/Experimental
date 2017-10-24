@@ -22,7 +22,9 @@ The following figure shows a high level system representation. Component level d
 
 ![](/images/image1.jpg)
 
-# Adding Text
+Basic Markdown editing
+
+## Adding Text
 
 Just type to add plain text.
 
@@ -34,10 +36,10 @@ You can add emphasis as follows:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Apply ~~Strikethrough~~ using two tildes (\~~) either side of the target text.
 
-## Indented Text
+### Indented Text
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indents ARE possible but not native - use normal HTML tagging for this. (multiple \&nbsp;&nbsp;)
 
-# Sections
+## Sections
 Sections are typically created by inserting headings.
 Headings are predeced by '#' symbols and take the following form:
 
@@ -47,9 +49,9 @@ Headings are predeced by '#' symbols and take the following form:
 
 \### Is a H3
 
-# Tables
+## Tables
 
-## Basics
+### Basics
 
 Use outer pipes (|'s) to separate columns.
 
@@ -57,7 +59,7 @@ Use dashes (-'s) to separate rows.
 
 There must be at least three dashes separating each header cell from body content.
 
-## Alignment
+### Alignment
 
 Control cell horizontal alignment using colons. In the following table:
 Column 1 is left aligned
@@ -74,20 +76,20 @@ Column 3 is right aligned
 |Cell 1 | Cell 2| Cell 3|
 
 
-# Lists
-### Numbered
+## Lists
+#### Numbered
 Just type 1, 2, 3 etc for numbered lists:
 1. Keys
 2. Phone
 3. Wallet
 
-### Bulleted
+#### Bulleted
 For bulleted lists, precede each item with a dash:
 - Apples
 - Pears
 - Oranges
 
-# Code
+## Code
 
 Inline \`code\` has \`back-ticks\` around it.
 

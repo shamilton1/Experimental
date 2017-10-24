@@ -3,11 +3,7 @@
 
 # Overview
 
-This GitHub repository is being developed for TDL as a feasbility study to demonstrate markdown content creation, editing and publication of typical Xdocumentation in the GitHub environment.
-
-The following figure shows a high level system representation. Component level descriptions are given in subsequent sections.
-
-![](/images/image1.jpg)
+This GitHub repository aims to privide basic guidance for technical writers tasked with content editing/creation in the GitHub environment.
 
 # Basic Markdown: Content editing
 
@@ -113,6 +109,12 @@ int main()
    return 0;
 }
 ```
+
+## Images
+
+The following figure shows a high level system representation. Component level descriptions are given in subsequent sections.
+
+![](/images/image1.jpg)
 
 Following are some examples markdown files in various formats which may be useful.
 

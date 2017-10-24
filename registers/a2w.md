@@ -12,7 +12,7 @@ register.
 |[31:30]|0|RW|Download Image Source|
 
 
-[Number of Transceiver]:Experimental/registers/aperf1.md
+[Number of Transceiver]:registers/aperf1.md
 
 
 

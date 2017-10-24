@@ -115,8 +115,10 @@ int main()
 
 Use the following construction to insert images:
 
-\![](/<images/image1.jpg>)\
+\!\[](/<images/image1.jpg>)
+
 Example:
+
 The following figure shows a high level system representation. Component level descriptions are given in subsequent sections.
 
 ![](/images/image1.jpg)

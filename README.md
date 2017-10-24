@@ -88,7 +88,10 @@ For bulleted lists, precede each item with a dash:
 - Oranges
 
 # Code
-Use triple back ticks (\```) at the beginning and end of code blocks (back ticks must be on separate lines).
+
+Inline `code` has `back-ticks` around it.
+
+Code blocks use triple back ticks (\```) at the beginning and end of code blocks (back ticks must be on separate lines).
 ```
 /* Fibonacci Series C language */
 #include<stdio.h>

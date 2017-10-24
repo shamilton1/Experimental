@@ -230,3 +230,41 @@ func tokenFromFile(file string) (*oauth2.Token, error) {
 	return t, err
 }
 ```
+# Quickstart Go
+```
+func channelsListByUsername(service *youtube.Service, part string, forUsername string) {
+  call := service.Channels.List(part)
+  call = call.ForUsername(forUsername)
+  response, err := call.Do()
+  handleError(err, "")
+  fmt.Println(fmt.Sprintf("This channel's ID is %s. Its title is '%s', " +
+              "and it has %d views.",
+              response.Items[0].Id,
+              response.Items[0].Snippet.Title,
+              response.Items[0].Statistics.ViewCount))
+}
+
+
+func main() {
+  ctx := context.Background()
+
+  b, err := ioutil.ReadFile("client_secret.json")
+  if err != nil {
+    log.Fatalf("Unable to read client secret file: %v", err)
+  }
+
+  // If modifying these scopes, delete your previously saved credentials
+  // at ~/.credentials/youtube-go-quickstart.json
+  config, err := google.ConfigFromJSON(b, youtube.YoutubeReadonlyScope)
+  if err != nil {
+    log.Fatalf("Unable to parse client secret file to config: %v", err)
+  }
+  client := getClient(ctx, config)
+  service, err := youtube.New(client)
+
+  handleError(err, "Error creating YouTube client")
+
+  channelsListByUsername(service, "snippet,contentDetails,statistics", "GoogleDevelopers")
+}
+```
+

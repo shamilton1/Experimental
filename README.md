@@ -25,7 +25,7 @@ Basic Markdown Editing:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tables][]
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lists
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Lists][]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Code
 
@@ -123,18 +123,6 @@ Displays as:
 |Cell 1 | Cell 2| Cell 3|
 
 
-## Lists
-#### Numbered
-Just type 1, 2, 3 etc for numbered lists:
-1. Keys
-2. Phone
-3. Wallet
-
-#### Bulleted
-For bulleted lists, precede each item with a dash:
-- Apples
-- Pears
-- Oranges
 
 ## Code
 
@@ -222,4 +210,6 @@ Support and Feedback
 [Text]:text.md
 
 [Tables]:tables.md
+
+[Lists]:lists.md
 

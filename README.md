@@ -33,35 +33,14 @@ Basic Markdown Editing:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Linking][]
 
+[Sample Content][]
 
-# Sample Content
 
-### [Prerequisites][]
-
-### [Register space][]
-
-### [APIs][]
-
-### [Example use cases][]
-
-### [Tutorials][]
 
 
 Support and Feedback
 
-[Click for file][]
 
-[Click for file]:file_2.md
-
-[Prerequisites]:prerequisites.md
-
-[Register space]:registers.md
-
-[APIs]:apis.md
-
-[Example use cases]:examples.md
-
-[Tutorials]:tutorials.md
 
 [Text]:text.md
 
@@ -76,5 +55,8 @@ Support and Feedback
 [Linking]:linking.md
 
 [GitHub Workflow for Writers]:workflow.md
+
+[Sample Content]:sample.md
+
 
 

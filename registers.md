@@ -1,5 +1,5 @@
 
-The following management registers are provided for user system configuration.
+The following register map provides address space information and pointers to management registers.
 
 |Region|Base|Description|
 |-------|----|--------|

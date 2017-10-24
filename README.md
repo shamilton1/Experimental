@@ -28,11 +28,11 @@ Just type to add plain text.
 
 You can add emphasis as follows:
 
-Apply *Italics*, using single asterisks or underscores either side of the target text.
+&nbsp;&nbsp;&nbsp;&nbsp;Apply *Italics*, using single asterisks or underscores either side of the target text.
 
-Apply **Bold**, using double asterisks or underscores either side of the target text.
+&nbsp;&nbsp;&nbsp;&nbsp;Apply **Bold**, using double asterisks or underscores either side of the target text.
 
-Apply ~~Strikethrough~~ using two tildes (\~~) either side of the target text.
+&nbsp;&nbsp;&nbsp;&nbsp;Apply ~~Strikethrough~~ using two tildes (\~~) either side of the target text.
 
 ## Indented Text
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indents ARE possible but not native - use normal HTML tagging for this. (multiple \&nbsp;&nbsp;)

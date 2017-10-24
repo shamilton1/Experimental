@@ -31,7 +31,7 @@ Basic Markdown Editing:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Images][]
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linking
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Linking][]
 
 
 
@@ -160,5 +160,7 @@ Support and Feedback
 [Code]:code.md
 
 [Images]:images.md
+
+[Linking]:linking.md
 
 

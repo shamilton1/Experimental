@@ -34,6 +34,8 @@ Apply **Bold**, using double asterisks or underscores either side of the target 
 
 Apply ~~Strikethrough~~ using two tildes (\~~) either side of the target text.
 
+## Indented Text
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indents ARE possible but not native - use normal HTML tagging for this. (multiple \&nbsp;&nbsp;)
 
 # Sections
 Sections are typically created by inserting headings.
@@ -68,7 +70,6 @@ Column 3 is right aligned
 |:------|:------:|-----:|
 |Cell 1 | Cell 2|
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Note:** indents ARE possible but not native - use normal HTML tagging for this.(&nbsp;&nbsp;)
 
 # Lists
 ## Numbered

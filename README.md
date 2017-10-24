@@ -8,13 +8,13 @@ This GitHub repository is being developed for TDL as a feasbility study to demon
 
 [Prerequisites][]
 
-Registers
+[Register Space][]
 
-APIs
+[APIs][]
 
-Example use cases
+[Example use cases][]
 
-Tutorials
+[Tutorials][]
 
 
 
@@ -83,3 +83,8 @@ and here
 
 
 [Prerequisites]:prerequisites.md
+[Register Space]:registers.md
+[APIs]:apis.md
+[Example use cases]:examples.md
+[Tutorials]:tutorials.md
+

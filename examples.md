@@ -70,28 +70,6 @@ import (
 	"golang.org/x/oauth2/google"
 )
 
-// This variable indicates whether the script should launch a web server to
-// initiate the authorization flow or just display the URL in the terminal
-// window. Note the following instructions based on this setting:
-// * launchWebServer = true
-//   1. Use OAuth2 credentials for a web application
-//   2. Define authorized redirect URIs for the credential in the Google APIs
-//      Console and set the RedirectURL property on the config object to one
-//      of those redirect URIs. For example:
-//      config.RedirectURL = "http://localhost:8090"
-//   3. In the startWebServer function below, update the URL in this line
-//      to match the redirect URI you selected:
-//         listener, err := net.Listen("tcp", "localhost:8090")
-//      The redirect URI identifies the URI to which the user is sent after
-//      completing the authorization flow. The listener then captures the
-//      authorization code in the URL and passes it back to this script.
-// * launchWebServer = false
-//   1. Use OAuth2 credentials for an installed application. (When choosing
-//      the application type for the OAuth2 client ID, select "Other".)
-//   2. Set the redirect URI to "urn:ietf:wg:oauth:2.0:oob", like this:
-//      config.RedirectURL = "urn:ietf:wg:oauth:2.0:oob"
-//   3. When running the script, complete the auth flow. Then copy the
-//      authorization code from the browser and enter it on the command line.
 const launchWebServer = false
 
 const missingClientSecretsMessage = `
@@ -115,15 +93,11 @@ func getClient(scope string) *http.Client {
 		log.Fatalf("Unable to read client secret file: %v", err)
 	}
 	
-	// If modifying the scope, delete your previously saved credentials
-	// at ~/.credentials/youtube-go.json
 	config, err := google.ConfigFromJSON(b, scope)
 	if err != nil {
 		log.Fatalf("Unable to parse client secret file to config: %v", err)
 	}
 	
-	// Use a redirect URI like this for a web app. The redirect URI must be a
-	// valid one for your OAuth2 credentials.
 	config.RedirectURL = "http://localhost:8090"
 	// Use the following redirect URI if launchWebServer=false in oauth2.go
 	// config.RedirectURL = "urn:ietf:wg:oauth:2.0:oob"
@@ -196,8 +170,6 @@ func exchangeToken(config *oauth2.Config, code string) (*oauth2.Token, error) {
 	return tok, nil
 }
 
-// getTokenFromPrompt uses Config to request a Token and prompts the user
-// to enter the token on the command line. It returns the retrieved Token.
 func getTokenFromPrompt(config *oauth2.Config, authURL string) (*oauth2.Token, error) {
 	var code string
 	fmt.Printf("Go to the following link in your browser. After completing " +
@@ -211,8 +183,6 @@ func getTokenFromPrompt(config *oauth2.Config, authURL string) (*oauth2.Token, e
 	return exchangeToken(config, code)
 }
 
-// getTokenFromWeb uses Config to request a Token.
-// It returns the retrieved Token.
 func getTokenFromWeb(config *oauth2.Config, authURL string) (*oauth2.Token, error) {
 	codeCh, err := startWebServer()
 	if err != nil {

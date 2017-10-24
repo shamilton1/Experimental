@@ -1,3 +1,7 @@
+This register enables the AXI4-Lite timeout. This ensures that transactions to the
+transceiver registers do not lock the AXI4-Lite bus which can happen if the
+transceiver is in reset or not being clocked when an access is attempted for
+example.
 
 |Bit|Default Value|Access Type|Description|
 |:-----:|:-----:|:-----:|-----|

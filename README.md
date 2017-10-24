@@ -15,10 +15,11 @@ This GitHub repository aims to privide basic guidance for technical writers task
 
 Areas covered in this document include using basic GitHub tools such as Forking, Branching, Cloning, Merging, and Creating Pull requests as well as basic content editing in markdown format.
 
+# Table of Contents
 
-Forking
+GitHub Workflow for Writers
 
-Markdown Editing
+[Basic Markdown Editing][]
 
 
 
@@ -204,4 +205,6 @@ Support and Feedback
 [Example use cases]:examples.md
 
 [Tutorials]:tutorials.md
+
+[Basic Markdown Editing]:editing.md
 

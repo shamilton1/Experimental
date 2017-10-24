@@ -9,7 +9,7 @@ Although mostly used for code, accompanying engineering documentation can also b
 
 GitHub documentation is typically owned by Marketing/Engineering, and they are responsible for the initial upload and hosting of GitHub repositories. However Technical writers may be required to contribute heavily in proofing, editing, and restructuring of documentation before public release.
 
-Documentation repositories typically comprise a number of markdown files. Markdown is a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML.
+Documentation repositories typically comprise a number of markdown files which writers may be requird to edit. Markdown is a very simple, lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML.
 
 This GitHub repository aims to privide basic guidance for technical writers tasked with content editing/creation in the GitHub environment.
 
@@ -19,8 +19,9 @@ Areas covered in this document include using basic GitHub tools such as Forking,
 
 GitHub Workflow for Writers
 
-[Basic Markdown Editing][]
+Basic Markdown Editing
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test
 
 
 
@@ -206,5 +207,5 @@ Support and Feedback
 
 [Tutorials]:tutorials.md
 
-[Basic Markdown Editing]:editing.md
+
 

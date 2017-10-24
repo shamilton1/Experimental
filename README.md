@@ -76,26 +76,45 @@ Column 3 is right aligned
 
 # Lists
 ## Numbered
-Just type 1, 2, 3 etc for numbered lists.
+Just type 1, 2, 3 etc for numbered lists:
 1. Keys
 2. Phone
 3. Wallet
 
 ## Bulleted
-For bulleted lists, precede each item with a daskh \-.
+For bulleted lists, precede each item with a dash:
 - Apples
 - Pears
 - Oranges
 
-Some codey stuff...
+# Code
+Use triple back ticks at the beginning and end of code blocks
 ```
-xaxicdma_example_sg_intr.c
-xaxicdma_example_sg_poll.c
-xaxicdma_example_simple_intr.c
-xaxicdma_example_simple_poll.c
-xaxicdma_example_hybrid_intr.c
-xaxicdma_example_hybrid_poll.c
+\```
+#include <stdio.h>
+int main()
+{
+    int i, j;
+    char input, alphabet = 'A';
+
+    printf("Enter the uppercase character you want to print in last row: ");
+    scanf("%c",&input);
+
+    for(i=1; i <= (input-'A'+1); ++i)
+    {
+        for(j=1;j<=i;++j)
+        {
+            printf("%c", alphabet);
+        }
+        ++alphabet;
+
+        printf("\n");
+    }
+    return 0;
+}
+\```
 ```
+
 
 Support and Feedback
 

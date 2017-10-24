@@ -111,7 +111,9 @@ int main()
 ```
 
 ## Images
-Use the following sturucrure for images:
+**Important**: Images should always be inserted using a relative path.
+
+Use the following construction to insert images:
 
 \![](/<images/image1.jpg>)\
 Example:

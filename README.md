@@ -22,12 +22,19 @@ The following figure shows a high level system representation. Component level d
 
 ![](/images/image1.jpg)
 
+# Adding Text
+
+## Adding Text
+Sections are typically created by inserting headings.
+Headings are predeced by '#' symbols and take the following form:
+
+\# Is a H1
+
+\## Is a H2
+
+\### Is a H3
 
 
-
-
-## Adding some text
-### Another heading
 **Editing the master at the minute.**
 Try creating a branch and submitting a pull request
 trying now

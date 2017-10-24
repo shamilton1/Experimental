@@ -17,7 +17,7 @@ Areas covered in this document include using basic GitHub tools such as Forking,
 
 # Table of Contents
 
-GitHub Workflow for Writers
+[GitHub Workflow for Writers][]
 
 Basic Markdown Editing:
 
@@ -162,5 +162,7 @@ Support and Feedback
 [Images]:images.md
 
 [Linking]:linking.md
+
+[GitHub Workflow for Writers]:workflow.md
 
 

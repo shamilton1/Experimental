@@ -2,7 +2,7 @@
 
 # Overview
 
-This project is being developed to demonstrate the feasibility for TDL writers to create, edit and publish content on GitHub.
+This repository is being developed for TDL as a feasbility study to demonstrate markdown content creation, editing and publication of typical Xdocumentation in the GitHub environment.
 
 
 ## Adding some text

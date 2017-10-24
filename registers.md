@@ -4,7 +4,7 @@ The following register map provides address space information and pointers to ma
 |Region|Base|Description|
 |-------|----|--------|
 |[A2W](a2w.md)|0x7e102000|Clock Manager/PLL Control|
-|[APERF0](APERF0.md)|0x7e009800|SDRAM Adress (pin) control|
+|[APERF0](aperf0.md)|0x7e009800|SDRAM Adress (pin) control|
 |[APERF1](APERF1.md)|0x7e102000|SDRAM Data (pin) control|
 |[APHY_CSR](APHY_CSR.md)|0x7E00B000|PLL Control only|
 |[CCP2TX](CCP2TX.md)|0x7e102000|GPIO control|

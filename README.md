@@ -2,14 +2,14 @@
 
 
 # Overview
-With changing user expectations for documentation, GitHub has been identified as a suitable channel for hosting dynamic and flexible engineering content.
+With changing user expectations for documentation, GitHub has been identified as a suitable channel for hosting dynamic, flexible engineering content.
 
 GitHub is a web-based Git or version control repository and Internet hosting service. 
-Although mostly used for code, accompanying engineering documentation can also be written and maintained in the environment.
+Although mostly used for code, accompanying engineering documentation can also be written and maintained within the environment.
 
-GitHub documentation is typically owned by Marketing/Engineering, and they are responsible for the initial upload and hosting of GitHub repositories. However Technical writers may be required to contribute havily to editing/restructuring documentation before public release.
+GitHub documentation is typically owned by Marketing/Engineering, and they are responsible for the initial upload and hosting of GitHub repositories. However Technical writers may be required to contribute heavily in proofing, editing, and restructuring of documentation before public release.
 
-Documentation repositories typically comprise a number of mark-down files.
+Documentation repositories typically comprise a number of markdown files. Markdown is a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML.
 
 This GitHub repository aims to privide basic guidance for technical writers tasked with content editing/creation in the GitHub environment.
 

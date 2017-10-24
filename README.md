@@ -5,7 +5,7 @@
 With changing user expectations for documentation, GitHub has been identified by Xyzxyz as a suitable channel for hosting dynamic, flexible engineering content.
 
 GitHub is a web-based Git or version control repository and Internet hosting service. 
-Although mostly used for code, accompanying engineering documentation can also be written and maintained within the environment.
+Although mostly used for code, accompanying engineering documentation can also be written, edited, maintained and disseminated within the environment.
 
 GitHub documentation is typically owned by Marketing/Engineering, and they are responsible for the initial upload and hosting of GitHub repositories. However Technical writers may be required to contribute heavily in proofing, editing, and restructuring of documentation before public release.
 

@@ -34,12 +34,6 @@ Headings are predeced by '#' symbols and take the following form:
 
 \### Is a H3
 
-
-**Editing the master at the minute.**
-Try creating a branch and submitting a pull request
-trying now
-Suggest changing patch 1 content - then merging into master
-
 ## Tables
 
 Try a table first (use |s and -s)
@@ -50,10 +44,17 @@ Cell 1 | Cell 2|
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Note:** indents ARE possible but not native - use normal HTML tagging for this.(&nbsp;&nbsp;)
 
-Table done - now try a list
+# Lists
+
+Just type 1, 2, 3 etc for numbered lists.
 1. Keys
 2. Phone
 3. Wallet
+
+For bulleted lists, precede each item with a daskh \-.
+- Apples
+- Pears
+- Oranges
 
 Some codey stuff...
 ```
@@ -67,31 +68,17 @@ xaxicdma_example_hybrid_poll.c
 
 Support and Feedback
 
-
-- Keys
-- Phone 
-- Wallet
-
-[Click here][]
-```
-codey stuff here
-and here
-and here
-```
-
-
-## Prerequisites
-
 [Click for file][]
-
-
 
 [Click for file]:file_2.md
 
-
 [Prerequisites]:prerequisites.md
+
 [Register space]:registers.md
+
 [APIs]:apis.md
+
 [Example use cases]:examples.md
+
 [Tutorials]:tutorials.md
 

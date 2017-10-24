@@ -19,7 +19,7 @@ Areas covered in this document include using basic GitHub tools such as Forking,
 
 GitHub Workflow for Writers
 
-Basic Markdown Editing
+Basic Markdown Editing:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text
 

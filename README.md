@@ -1,8 +1,10 @@
 ![](/images/capture.PNG)
 
-# Hamilton
+# Overview
 
-experiment
+This project is being developed to demonstrate the feasibility for TDL writers to create, edit and publish content on GitHub.
+
+
 ## Adding some text
 ### Another heading
 **Editing the master at the minute.**

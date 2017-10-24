@@ -1,19 +1,6 @@
 ![](/images/capture.PNG)
 
 
-
-# Table of Contents
-
-### [Prerequisites][]
-
-### [Register space][]
-
-### [APIs][]
-
-### [Example use cases][]
-
-### [Tutorials][]
-
 # Overview
 
 This GitHub repository is being developed for TDL as a feasbility study to demonstrate markdown content creation, editing and publication of typical Xdocumentation in the GitHub environment.
@@ -126,6 +113,18 @@ int main()
    return 0;
 }
 ```
+
+Following are some examples markdown files in various formats which may be useful.
+
+### [Prerequisites][]
+
+### [Register space][]
+
+### [APIs][]
+
+### [Example use cases][]
+
+### [Tutorials][]
 
 
 Support and Feedback

@@ -23,16 +23,16 @@ The following register map provides address space information and pointers to ma
 |[APERF1](APERF1.md)|0x7e007000|CSDRAM|
 |[APHY_CSR](APHY_CSR.md)|0x7e102000|SIGALRM|
 |[CCP2TX](CCP2TX.md)|0x7e007a00|SIGTERM|
-|[DMA0](DMA0.md)|0x7e007b00|Clock Manager/PLL Control|
+|[DMA0](DMA0.md)|0x7e007b00|SDRAM Adress (pin) control|
 |[A2DMA1W](DMA1.md)|0x7e102000|Clock Manager/PLL Control|
-|[DMA2](DMA2.md)|0x7e007c00|Clock Manager/PLL Control|
-|[DMA3](DMA3.md)|0x7e007e00|Clock Manager/PLL Control|
-|[DMA4](DMA4.md)|0x7e007d00|Clock Manager/PLL Control|
+|[DMA2](DMA2.md)|0x7e007c00|GPIO controll|
+|[DMA3](DMA3.md)|0x7e007e00|VC4-L1 control|
+|[DMA4](DMA4.md)|0x7e007d00|One Time programmable|
 |[DMA5](DMA5.md)|0x7e007300|Clock Manager/PLL Control|
-|[DPHY_CSR](DPHY_CSR.md)|0x7e007400|Clock Manager/PLL Control|
+|[DPHY_CSR](DPHY_CSR.md)|0x7e007400|VC4-L2CYT control|
 |[SCALER](SCALER.md)|0x7e007500|Clock Manager/PLL Control|
-|[SLIM](SLIM.md)|0x7e007600|Clock Manager/PLL Control|
-|[PIARBCTL](PIARBCTL.md)|0x7e007700|Clock Manager/PLL Control|
+|[SLIM](SLIM.md)|0x7e007600|One Time programmable|
+|[PIARBCTL](PIARBCTL.md)|0x7e007700|VC4-L2 control|
 
 
 

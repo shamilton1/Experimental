@@ -3,7 +3,7 @@
 
 ## Adding Text
 
-Just type to add plain text.
+Just type.....
 
 You can add emphasis as follows:
 

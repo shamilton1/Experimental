@@ -12,8 +12,8 @@ The following register map provides address space information and pointers to ma
 |[A2DMA1W](/registers/a2dma1w.md)|0x7e102000|One Time programmable|
 |[DMA2](/registers/dma2.md)|0x7E215000|VC4-L2 control|
 |[DMA3](/registers/dma3.md)|0x7e910000|CSDRAM|
-|[DMA4](DMA4.md)|0x7e800000|SIGALRM|
-|[DMA5](DMA5.md)|0x7e102000|SIGTERM|
+|[DMA4](/registers/dma4.md)|0x7e800000|SIGALRM|
+|[DMA5](/registers/dma5.md)|0x7e102000|SIGTERM|
 |[DPHY_CSR](DPHY_CSR.md)|0x7e801000|SIGSTKFLT|
 |[SCALER](SCALER.md)|0x7e802000|SIGCHLD|
 |[SLIM](SLIM.md)|0x7e211000|SDRAM Adress (pin) control|

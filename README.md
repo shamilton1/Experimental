@@ -6,15 +6,15 @@ This GitHub repository is being developed for TDL as a feasbility study to demon
 
 # Table of Contents
 
-## Prerequisites
+[Prerequisites][]
 
-## Registers
+Registers
 
-## APIs
+APIs
 
-## Example use cases
+Example use cases
 
-## Tutorials
+Tutorials
 
 
 
@@ -82,3 +82,4 @@ and here
 [Click for file]:file_2.md
 
 
+[Prerequisites]:prerequisites.md

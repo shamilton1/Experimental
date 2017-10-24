@@ -89,9 +89,11 @@ For bulleted lists, precede each item with a dash:
 
 # Code
 
+Inline \`code\` has \`back-ticks\` around it.
+
 Inline `code` has `back-ticks` around it.
 
-Code blocks use triple back ticks (\```) at the beginning and end of code blocks (back ticks must be on separate lines).
+Similarly, code blocks use triple back-ticks (\```) at the beginning and end of code blocks (back-ticks must be on separate lines).
 ```
 /* Fibonacci Series C language */
 #include<stdio.h>

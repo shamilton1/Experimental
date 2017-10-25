@@ -7,12 +7,12 @@ Visit the GitHub [homepage][] to register.
 After registration, use the following procedure to guide you through each step from initial GitHub login, to closing your pull request. There are three main stages:
 #### 1. Creating a fork repository
   Creates an independent copy of a respository which you can manage without risk of affecting the original.
-#### 2. Editing the repository
+#### 2. Editing fork
   Making required technical edits/style changes to the markdown content, or structurally changing the repository.
-#### 3. Submitting a pull request 
+#### 3. Creating and submitting a pull request 
   Making a request to the original repository owner for the changes you made to be incorporated into the original repository.
 
-## Create a new fork
+## Creating a fork repository
 1.  Login to GitHub.
 2.  Use the **Search** feature at the top of the page to navigate to the upstream respository you've been asked to review/edit.
     **Note**: Try to use the full respository path <orgname/repositoryname>, otherise the search results count may be huge.
@@ -20,7 +20,7 @@ After registration, use the following procedure to guide you through each step f
 
     A fork is a copy of the original repository. You can make changes to a fork without without affecting the original repository. Using your fork, you can fetch updates from or submit changes to the original repository with *Pull Requests*.
 
-## Editing your fork
+## Editing the fork
 
  4.   Edits markdown files as required. See [Editing Markdown][] for more details.
   As you make changes, you should commit then to your master branch at regular intervals using the **Commit Changes** button at the bottom of the edit screen.
@@ -28,7 +28,7 @@ After registration, use the following procedure to guide you through each step f
      ** ADD NOTE ABOUT PREVIEW?**
  5.   When you are happy with your edits, commit the changes to your master branch a final time.
  
- ## Create a Pull Request from your fork
+ ## Creating and submitting a pull request
  By creating a pull request, you are asking the upstream repository to accept the changes you have made, and merge them into the original repository. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before the changes are merged into the repository.
  
  6. Navigate to the original repository you created your fork from.

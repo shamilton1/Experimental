@@ -33,20 +33,20 @@ If you know the changes to be made, you can navigate directly to the appropriate
   Commits are analogous to Saves - except each commit gets an assigned a unique ID to help you track them.
   As you edit files you can preview your changes withour making commits by clicking the Preview changes tab at the top of your editing window.
   
- 5.   When you are happy with your edits, make a final commit to your master branch.
+ 6.   When you are happy with your edits, make a final commit to your master branch.
  
  ## Creating and submitting a pull request
  By creating a pull request, you are asking the upstream repository to accept the changes you have made, and merge them into the original repository. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before the changes are merged into the repository.
  
- 6. Navigate to the original repository you created your fork from.
- 7. To the right of the Branch menu, click ![](/images/pull_request.PNG).
- 8. On the Compare page, click **Compare across forks**.
- 9. Use the **base** branch drop-down menu to select the branch of the upstream repository you'd like to merge changes into.
+ 7. Navigate to the original repository you created your fork from.
+ 8. To the right of the Branch menu, click ![](/images/pull_request.PNG).
+ 9. On the Compare page, click **Compare across forks**.
+ 10. Use the **base** branch drop-down menu to select the branch of the upstream repository you'd like to merge changes into.
  
-10. Use the **head** fork drop-down menu to select your fork, then use the compare branch drop-down menu to select the branch you made your changes in.
+11. Use the **head** fork drop-down menu to select your fork, then use the compare branch drop-down menu to select the branch you made your changes in.
  
- 11. Deselect **Allow edits from maintainers** if you don't want any other contributers changing your pull request.
- 12. Click **Create pull request**.
+ 12. Deselect **Allow edits from maintainers** if you don't want any other contributers changing your pull request.
+ 13. Click **Create pull request**.
  
  At this point, your pull request is sent to the owner of the upstream repository. They will decide whether to merge (accept) or close (reject) your pull request. Alternatively they may decide to open a conversation to discuss your pull request. You will be notified accordingly.
  

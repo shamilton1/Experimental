@@ -3,7 +3,6 @@
 This section provides basic instructions for editing and formatting markdown files.
 Click the following links for more information:
 
-[GitHub Workflow for Writers][]
 
 Basic Markdown Editing:
 

@@ -20,6 +20,7 @@ A GitHub account with a verified email address is required to allow you to fork 
  
  ## Create a Pull Request from your fork
  By creating a pull request, you are asking the upstream repository to accept the changes you have made, and merge them into the original repository.
+ 
  6. Navigate to the original repository you created your fork from.
  7. To the right of the Branch menu, click **New pull request**.
  8. On the Compare page, click **Compare across forks**.

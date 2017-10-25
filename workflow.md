@@ -29,8 +29,8 @@ If you know the changes to be made, you can navigate directly to the appropriate
 
   As you make changes, you should commit then to your master branch at regular intervals using the ![](/images/commit.PNG) button at the bottom of the edit screen.
   Commits are analagous to Saves - except each commit gets an assigned a unique ID to help you track them.
-     ** ADD NOTE ABOUT PREVIEW?**
- 5.   When you are happy with your edits, commit the changes to your master branch a final time.
+  As you edit files you can preview your changes withour making commits by clicking the Preview changes tab at the top of your editing window.
+ 5.   When you are happy with your edits, make a final commit to your master branch.
  
  ## Creating and submitting a pull request
  By creating a pull request, you are asking the upstream repository to accept the changes you have made, and merge them into the original repository. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before the changes are merged into the repository.

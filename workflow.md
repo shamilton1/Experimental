@@ -35,7 +35,7 @@ Following is a procedure to guide you through every step from GitHub login to cl
  11. Deselect **Allow edits from maintainers** if you don't want any other contributers changing your pull request.
  10. Click **Create pull request**.
  
- At this point, your pull request is sent to the owner of the upstream repository. They will decide whether to accept, reject or request changes to your edits and you will be notified accordingly.
+ At this point, your pull request is sent to the owner of the upstream repository. They will decide whether to merge (accept) or close (reject)  your pull request. Alternatively they may decide to open a conversation to discuss your edit request. You will be notified accordingly.
  
  
  

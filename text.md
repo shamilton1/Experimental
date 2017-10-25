@@ -1,5 +1,5 @@
 
-# Basic Markdown: Content editing
+# Basic Markdown: Content Editing 
 
 ## Adding Text
 

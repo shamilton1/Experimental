@@ -1,5 +1,5 @@
 # Prerequisites
-A GitHub account with an associated and verified email address is required before you can fork/edit repositories or create pull requests.
+You require a GitHub account with an associated and verified email address before you can fork/edit repositories or create pull requests.
 
 Visit the GitHub [homepage][] to register.
 

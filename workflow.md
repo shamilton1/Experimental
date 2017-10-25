@@ -30,6 +30,7 @@ If you know the changes to be made, you can navigate directly to the appropriate
   As you make changes, you should commit then to your master branch at regular intervals using the ![](/images/commit.PNG) button at the bottom of the edit screen.
   Commits are analagous to Saves - except each commit gets an assigned a unique ID to help you track them.
   As you edit files you can preview your changes withour making commits by clicking the Preview changes tab at the top of your editing window.
+  
  5.   When you are happy with your edits, make a final commit to your master branch.
  
  ## Creating and submitting a pull request

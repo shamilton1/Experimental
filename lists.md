@@ -1,7 +1,7 @@
 
 ## Lists
 #### Numbered
-Just type 1., 2., 3. etc for numbered lists (space after)
+Just type 1., 2., 3. etc for numbered lists (space after):
 1. Keys
 2. Phone
 3. Wallet

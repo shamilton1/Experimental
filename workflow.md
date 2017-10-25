@@ -4,11 +4,11 @@ A GitHub account with a verified email address is required before you can fork r
 # Procedure
 Following is a procedure to guide you through every step from GitHub login to closing your pull request. There are three stages to the procedure:
 ### Creating a fork repository
-   This creates an independent respository which you can manage independentyl of the original.
+   Creates an independent respository which you can manage without risk of affecting the original.
 ### Editing the repository
-   Make required technical edits/style changes to the markdown content or structural changes repository.
+   Make required technical edits/style changes to the markdown content, or to structurally change the repository.
 ### Submitting a pull request 
-   A request to the original repository owner for the changes you made to be merged into the original repository
+   Making a request to the original repository owner for the changes you made to be incorporated into the original repository.
 
 ## Create a new fork
 1.  Login to GitHub.

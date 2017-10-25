@@ -6,9 +6,9 @@ Visit the GitHub [homepage][] to register.
 # Procedure
 After registration, use the following procedure to guide you through each step from initial GitHub login, to closing your pull request. There are three main stages:
 #### Creating a fork repository
-  Creates an independent respository which you can manage without risk of affecting the original.
+  Creates an independent copy of a respository which you can manage without risk of affecting the original.
 #### Editing the repository
-  Make required technical edits/style changes to the markdown content, or to structurally change the repository.
+  Making required technical edits/style changes to the markdown content, or structurally changing the repository.
 #### Submitting a pull request 
   Making a request to the original repository owner for the changes you made to be incorporated into the original repository.
 

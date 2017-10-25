@@ -44,5 +44,5 @@ Areas covered in this document include using basic GitHub tools such as Forking,
 
 [Sample Content]:sample.md
 
-
+[Basic Markdown Editing]:markdown.md
 

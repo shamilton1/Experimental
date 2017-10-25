@@ -21,9 +21,9 @@ After registration, use the following procedure to guide you through each step f
     A fork is a copy of the original repository. You can make changes to a fork without without affecting the original repository. Using your fork, you can fetch updates from or submit changes to the original repository with *Pull Requests*.
 
 ## Editing the fork
-After the forking process completes (this may take some time), the newly forked repository will display in the **Code** tab. If you know the changes to be made, you can navigate directly to the appropriate MD files and make the edits (see [Editing Markdown][]). If you want to review the full repository from scratch, open the README.md file first. This typically provides an overview of the purpose of the repository and may also include a ToC, providing a good starting point to get a feel for the file structure.
+After the forking process completes (this may take some time), the newly forked repository will display in the **Code** tab. 
 
- 4.   Edit markdown files as required. See [Editing Markdown][] for more details.
+ 4.   Edit markdown files as required. If you know the changes to be made, you can navigate directly to the appropriate MD files and make the edits (see [Editing Markdown][]). If you want to review the full repository from scratch, open the README.md file first. This typically provides an overview of the purpose of the repository and may also include a ToC, providing a good starting point to get a feel for the file structure. See [Editing Markdown][] for more details.
   As you make changes, you should commit then to your master branch at regular intervals using the **Commit Changes** button at the bottom of the edit screen.
   Commits are analagous to Saves - except each commit gets an assigned a unique ID to help you track them.
      ** ADD NOTE ABOUT PREVIEW?**

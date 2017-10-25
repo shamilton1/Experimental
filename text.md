@@ -151,7 +151,6 @@ The following figure shows a high level system representation. Component level d
 
 ![](/images/image1.jpg)
 
-Following are some examples markdown files in various formats which may be useful.
 
 
 

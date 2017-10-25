@@ -23,7 +23,7 @@ After registration, use the following procedure to guide you through each step f
 ## Editing the fork
 After the forking process completes (this may take some time), the newly forked repository will display in the **Code** tab. 
 
- 4.   Edit markdown files as required (see [Editing Markdown][]).
+ 4.   Edit markdown files as required (for full instructions on formatting and editing command, see [Editing Markdown][]).
  
 If you know the changes to be made, you can navigate directly to the appropriate MD files and make the edits (see [Editing Markdown][]). If you want to review the full repository from scratch, open the README.md file first. This typically provides an overview of the purpose of the repository and may also include a ToC, providing a good starting point to get a feel for the file structure. See [Editing Markdown][] for more details.
 

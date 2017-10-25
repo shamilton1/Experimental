@@ -1,5 +1,5 @@
 
-# Basic Markdown: Content editing DELETE THIS TEXT
+# Basic Markdown: Content editing DELETE THIS TEX
 
 ## Adding Text
 

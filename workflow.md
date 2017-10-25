@@ -5,14 +5,14 @@ Visit the GitHub [homepage][] to register.
 
 # Procedure
 After registration, use the following procedure to guide you through each step from initial GitHub login, to closing your pull request. There are three main stages:
-#### 1. Creating a fork repository
+#### 1. Creating a forked repository
   Creates an independent copy of a respository which you can manage without risk of affecting the original.
-#### 2. Editing fork
+#### 2. Editing the forked repository
   Making required technical edits/style changes to the markdown content, or structurally changing the repository.
 #### 3. Creating and submitting a pull request 
   Making a request to the original repository owner for the changes you made to be incorporated into the original repository.
 
-## Creating a fork repository
+## Creating a forked repository
 1.  Login to GitHub.
 2.  Use the **Search** feature at the top of the page to navigate to the upstream respository you've been asked to review/edit.
     **Note**: Search results count can be huge. Try to use the full respository name <orgname/repositoryname>.
@@ -20,7 +20,7 @@ After registration, use the following procedure to guide you through each step f
 
     A fork is a copy of the original repository. You can make changes to a fork without without affecting the original repository. Using your fork, you can fetch updates from or submit changes to the original repository with *Pull Requests*.
 
-## Editing the fork
+## Editing the forked repository
 After the forking process completes (this may take some time), the newly forked repository will display in the **Code** tab.
 
 If you know the changes to be made, you can navigate directly to the appropriate MD files and make the edits. If you want to review the full repository from scratch, open the README.md file first. This typically provides an overview of the purpose of the repository and may also include a ToC, providing a good starting point to get a feel for the file structure and contents.

@@ -16,23 +16,11 @@ This GitHub repository aims to privide basic guidance for technical writers task
 
 Areas covered in this document include using basic GitHub tools such as Forking, Branching, Cloning, Merging, and Creating Pull requests as well as basic content editing in markdown format.
 
-# Table of Contents
+### The following sections provide help and guidance for Technical Writers who are required to edit GitHub repositories online.
 
 [GitHub Workflow for Writers][]
 
-Basic Markdown Editing:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Text][]
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tables][]
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Lists][]
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Code][]
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Images][]
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Linking][]
+[Basic Markdown Editing][]
 
 [Sample Content][]
 

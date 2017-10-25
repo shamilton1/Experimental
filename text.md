@@ -153,15 +153,7 @@ The following figure shows a high level system representation. Component level d
 
 Following are some examples markdown files in various formats which may be useful.
 
-### [Prerequisites][]
 
-### [Register space][]
-
-### [APIs][]
-
-### [Example use cases][]
-
-### [Tutorials][]
 
 
 Support and Feedback

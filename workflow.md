@@ -1,5 +1,5 @@
 # Prerequisites
-A GitHub account with a verified email address is required to allow you to fork repositories and create pull requests.
+A GitHub account with a verified email address is required before you can fork repositories or create pull requests.
 
 # Procedure
 Following is a procedure to guide you through every step from GitHub login to closing your pull request.

@@ -1,8 +1,7 @@
 ![](/images/capture.PNG)
 
 
-# Overview - DELETE THIS NONSENSE.
-Attempt2
+# Introduction
 
 With changing user expectations for documentation, GitHub has been identified by Xyzxyz as a suitable channel for hosting dynamic, flexible engineering content.
 

@@ -2,6 +2,8 @@
 A GitHub account with a verified email address is required to allow you to fork repositories and create pull requests.
 
 # Procedure
+Following is a procedure to guide you through every step from GitHub login to closing your pull request.
+
 ## Create a new fork
 1.  Login to GitHub.
 2.  Use the **Search** feature at the top of the page to navigate to the upstream respository you've been asked to review/edit.
@@ -12,7 +14,7 @@ A GitHub account with a verified email address is required to allow you to fork 
 
 ## Editing your fork
 
- 4.   Make required changes to markdown files as required. See [Editing Markdown][] for more details.
+ 4.   Edits markdown files as required. See [Editing Markdown][] for more details.
   As you make changes, you should commit then to your master branch at regular intervals using the **Commit Changes** button at the bottom of the edit screen.
   Commits are analagous to Saves - except each commit gets an assigned a unique ID to help you track them.
      ** ADD NOTE ABOUT PREVIEW?**
@@ -29,6 +31,12 @@ A GitHub account with a verified email address is required to allow you to fork 
     Use the **base** branch drop-down menu to select the branch of the upstream repository you'd like to merge changes into.
  
     Use the **head** fork drop-down menu to select your fork, then use the compare branch drop-down menu to select the branch you made your changes in.
+ 
+ 11. Deselect **Allow edits from maintainers** if you don't want any other contributers changing your pull request.
+ 10. Click **Create pull request**.
+ 
+ At this point, your pull request is sent to the owner of the upstream repository. They will decide whether to accept, reject or request changes to your edits and you will be notified accordingly.
+ 
  
  
  

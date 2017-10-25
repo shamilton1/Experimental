@@ -1,7 +1,7 @@
 # Prerequisites
 A GitHub account with a verified email address is required before you can fork repositories or create pull requests.
 
-Visit the GitHub homepage to register: https://github.com/
+Visit the GitHub [homepage][] to register.
 
 # Procedure
 Following is a procedure to guide you through every step from GitHub login to closing your pull request. There are three stages to the procedure:
@@ -56,3 +56,4 @@ Following is a procedure to guide you through every step from GitHub login to cl
 
 [Editing Markdown]:markdown.md
 
+[homepage]:https://github.com/

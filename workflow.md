@@ -4,7 +4,7 @@ You require a GitHub account with an associated and verified email address befor
 Visit the GitHub [homepage][] to register.
 
 # Procedure
-After registration, use the following procedure to guide you through each step from initial GitHub login to closing your pull request. There are three main stages:
+After registration, use the following procedure to guide you through each step from initial GitHub login, to closing your pull request. There are three main stages:
 #### Creating a fork repository
   Creates an independent respository which you can manage without risk of affecting the original.
 #### Editing the repository

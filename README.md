@@ -39,9 +39,6 @@ Basic Markdown Editing:
 
 
 
-Support and Feedback
-
-
 
 [Text]:text.md
 

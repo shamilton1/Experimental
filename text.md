@@ -156,9 +156,6 @@ Following are some examples markdown files in various formats which may be usefu
 
 
 
-Support and Feedback
-
-[Click for file][]
 
 [Click for file]:file_2.md
 

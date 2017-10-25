@@ -21,7 +21,7 @@ Following is a procedure to guide you through every step from GitHub login to cl
  5.   When you are happy with your edits, commit the changes to your master branch a final time.
  
  ## Create a Pull Request from your fork
- By creating a pull request, you are asking the upstream repository to accept the changes you have made, and merge them into the original repository.
+ By creating a pull request, you are asking the upstream repository to accept the changes you have made, and merge them into the original repository. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before the changes are merged into the repository.
  
  6. Navigate to the original repository you created your fork from.
  7. To the right of the Branch menu, click **New pull request**.

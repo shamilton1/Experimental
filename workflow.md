@@ -8,9 +8,12 @@ A GitHub account with a verified email address is required to allow you to fork 
 3.  Click ![](/images/fork.PNG) to create a copy of the repository. 
 
     A fork is a copy of the original repository. You can make changes to a fork without without affecting the original repository. Using your fork, you can fetch updates from or submit changes to the original repository with *Pull Requests*.
- 4.   Make required changes to markdown files as required. See BASIC MARKDOWN EDITING - FIX THIS! - Create new markdown topic ands put subs in it so it can be a single link from here
+ 4.   Make required changes to markdown files as required. See [Editing Markdown][] for more details.
  
   
 
 
+
+
+[Editing Markdown]:markdown.md
 

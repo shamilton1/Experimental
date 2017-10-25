@@ -1,5 +1,6 @@
 # Prerequisites
 A GitHub account with a verified email address is required before you can fork repositories or create pull requests.
+
 Visit the GitHub homepage to register: https://github.com/
 
 # Procedure

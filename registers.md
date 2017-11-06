@@ -1,3 +1,4 @@
+![](/images/x_banner.PNG)
 
 The following register map provides address space information and pointers to management registers.
 

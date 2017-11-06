@@ -16,8 +16,8 @@
 
 [Register space]:registers.md
 
-[APIs]:apis.md
+[APIs]:ref/apis.md
 
-[Example use cases]:examples.md
+[Example use cases]:ref/examples.md
 
-[Tutorials]:tutorials.md
+[Tutorials]:ref/tutorials.md

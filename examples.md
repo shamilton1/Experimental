@@ -1,3 +1,5 @@
+![](/images/x_banner.PNG)
+
 # Authorization Credentials
 To run any sample that does not require user authorization, such as search_by_keyword.go, you need to replace the value of the `developerKey constant` with a valid API key:
 ```const developerKey = "YOUR DEVELOPER KEY"```

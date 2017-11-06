@@ -1,3 +1,4 @@
+![](/images/x_banner.PNG)
 
 # Basic Markdown: Content Editing 
 

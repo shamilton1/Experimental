@@ -1,3 +1,4 @@
+![](/images/x_banner.PNG)
 
 ## Images
 **Important**: Images should always be inserted using a relative path.

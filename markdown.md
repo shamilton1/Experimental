@@ -25,9 +25,9 @@ Basic Markdown Editing:
 
 
 
-[Text]:text.md
+[Text]:ref/text.md
 
-[Tables]:tables.md
+[Tables]:ref/tables.md
 
 [Lists]:ref/lists.md
 

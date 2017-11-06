@@ -31,11 +31,11 @@ Basic Markdown Editing:
 
 [Lists]:ref/lists.md
 
-[Code]:code.md
+[Code]:ref/code.md
 
-[Images]:images.md
+[Images]:ref/images.md
 
-[Linking]:linking.md
+[Linking]:ref/linking.md
 
 [GitHub Workflow for Writers]:workflow.md
 

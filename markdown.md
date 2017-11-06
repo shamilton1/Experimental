@@ -29,7 +29,7 @@ Basic Markdown Editing:
 
 [Tables]:tables.md
 
-[Lists]:lists.md
+[Lists]:ref/lists.md
 
 [Code]:code.md
 

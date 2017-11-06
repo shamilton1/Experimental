@@ -1,3 +1,5 @@
+![](/images/x_banner.PNG)
+
 You can link directly between different MD documentation files, whether you are editing the
 documentation on GitHub itself, or locally, using a different markup renderer.
 

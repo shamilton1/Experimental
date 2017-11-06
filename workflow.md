@@ -1,3 +1,5 @@
+![](/images/x_banner.PNG)
+
 # Prerequisites
 You require a GitHub account with an associated and verified email address before you can fork/edit repositories or create pull requests.
 

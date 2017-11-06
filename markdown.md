@@ -1,3 +1,5 @@
+![](/images/x_banner.PNG)
+
 # Markdown: Editing and Formatting - Basics
 
 This section provides basic instructions for editing and formatting markdown files.

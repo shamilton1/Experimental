@@ -14,6 +14,12 @@ You can add emphasis as follows:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Apply ~~Strikethrough~~ using two tildes (\~~) either side of the target text.
 
+SUPERSCRIPT<sup>Superscript</sup>
+
+SUBSCRIPT<sub>Subscript</sub>
+
+
+
 ### Indented Text
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indents ARE possible but not native - use normal HTML tagging for this. (multiple \&nbsp;&nbsp;)
 

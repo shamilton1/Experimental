@@ -56,7 +56,9 @@ Simply add 'ruby' after the initial \``` as follows
 
     markdown = Redcarpet.new("Hello World!")
 
-    puts markdown.to_html```
+    puts markdown.to_html
+    
+    ```
 
 To give:
 ```ruby

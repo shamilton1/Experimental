@@ -1,6 +1,6 @@
 ![](/images/x_banner.PNG)
 
-## Code
+## Code and Syntax Highlighting
 
 Inline \`code\` has \`back-ticks\` around it.
 

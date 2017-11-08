@@ -7,7 +7,7 @@ Inline \`code\` has \`back-ticks\` around it.
 Inline `code` has `back-ticks` around it.
 
 Similarly, code blocks use triple back-ticks (\```) at the beginning and end of code blocks (back-ticks must be on separate lines).
-```
+```C
 /* Fibonacci Series C language */
 #include<stdio.h>
  

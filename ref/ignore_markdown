@@ -1,0 +1,4 @@
+# Ignoring Markdown formatting
+
+You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
+

@@ -48,7 +48,7 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
-Simply add 'Ruby' after the initial \``` as follows
+Simply add 'ruby' after the initial \``` as follows
 
     ```ruby
 
@@ -56,7 +56,7 @@ Simply add 'Ruby' after the initial \``` as follows
 
     markdown = Redcarpet.new("Hello World!")
 
-    puts markdown.to_html
-    
-    ```
+    puts markdown.to_html```
+
+To give
 

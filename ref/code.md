@@ -58,5 +58,10 @@ Simply add 'ruby' after the initial \``` as follows
 
     puts markdown.to_html```
 
-To give
+To give:
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 

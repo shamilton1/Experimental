@@ -43,7 +43,7 @@ You can add an optional language identifier to enable syntax highlighting in you
 
 For example, to syntax highlight Ruby code:
 
-```ruby
+```
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html

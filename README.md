@@ -3,7 +3,7 @@
 
 # Overview
 
-With changing user expectations for documentation, GitHub has been identified by Xyzxyz as a suitable channel for hosting dynamic, flexible engineering content.
+With changing user expectations for documentation, GitHub has been identified as a suitable channel for hosting dynamic, flexible engineering content.
 
 GitHub is a web-based Git or version control repository and Internet hosting service. 
 Although mostly used for code, accompanying engineering documentation can also be written, edited, maintained, controlled, and disseminated within the environment.

@@ -1,4 +1,4 @@
-![](/images/x_banner.PNG)
+![](/images/x_banner.PN)
 
 
 # Overview

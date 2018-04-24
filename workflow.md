@@ -1,5 +1,14 @@
 ![](/images/x_banner.PNG)
 
+# Overview
+## What is GitHub
+
+GitHub is a Git repository hosting service. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.
+
+The flagship functionality of GitHub is “**forking**” – copying a repository from one user’s account to another. Forking enables you to take a project that you don’t have write access to and modify it under your own account. If you make changes you’d like to share, you can send a notification called a “**pull request**” to the original owner. The owner can then, with a click of a button, merge the changes found in your repo with the original repo.
+
+These three features – fork, pull request and merge – are what make GitHub so powerful.
+
 # Prerequisites
 You require a GitHub account with an associated and verified email address before you can fork/edit repositories or create pull requests.
 

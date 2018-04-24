@@ -10,7 +10,7 @@ The flagship functionality of GitHub is “**forking**” – copying a reposito
 These three features – fork, pull request and merge – are what make GitHub so powerful.
 
 # Prerequisites
-You require a GitHub account with an associated and verified email address before you can fork/edit repositories or create pull requests.
+To use GitHub, you require a GitHub account with an associated and verified email address before you can fork/edit repositories or create pull requests.
 
 Visit the GitHub [homepage][] to register.
 

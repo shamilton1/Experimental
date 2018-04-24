@@ -41,11 +41,11 @@ If you know the changes to be made, you can navigate directly to the appropriate
  By creating a pull request, you are asking the upstream repository to accept the changes you have made, and merge them into the original repository. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before the changes are merged into the repository.
  
  7. Navigate to the original repository you created your fork from.
- 8. To the right of the Branch menu, click ![](/images/pull_request.PNG).
+ 8. To the right of the **Branch** menu, click ![](/images/pull_request.PNG).
  9. On the Compare page, click **Compare across forks**.
  10. Use the **base** branch drop-down menu to select the branch of the upstream repository you'd like to merge changes into.
  
-11. Use the **head** fork drop-down menu to select your fork, then use the compare branch drop-down menu to select the branch you made your changes in.
+11. Use the **head** fork drop-down menu to select your fork, then use the **compare branch** drop-down menu to select the branch you made your changes in.
  
  12. Deselect **Allow edits from maintainers** if you don't want any other contributers changing your pull request.
  13. Click **Create pull request**.
